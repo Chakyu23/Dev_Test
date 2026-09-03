@@ -26,3 +26,428 @@ HstDuree.log
 # WINDEV Mobile 
 android
 *.xcode.gen
+Svg_20260903_1650/.gitignore
+Svg_20260903_1650/desktop.ini
+Svg_20260903_1650/Dev_Test.ana/ANA00001/Dev_Test.wda
+Svg_20260903_1650/Dev_Test.ana/ANA00001/Dev_Test.wdap
+Svg_20260903_1650/Dev_Test.ana/ANA00001/Dev_Test.wdd
+Svg_20260903_1650/Dev_Test.ana/ANA00001/Dev_Test.xdd
+Svg_20260903_1650/Dev_Test.ana/ANA00001/MO000-001.TXT
+Svg_20260903_1650/Dev_Test.ana/ANA00001/modif.mdf
+Svg_20260903_1650/Dev_Test.ana/ANA00001/RADFic.fic
+Svg_20260903_1650/Dev_Test.ana/ANA00001/RADFic.ndx
+Svg_20260903_1650/Dev_Test.ana/ANA00001/RADFicp.fic
+Svg_20260903_1650/Dev_Test.ana/ANA00001/RADFicp.ndx
+Svg_20260903_1650/Dev_Test.ana/ANA00001/RADProp.fic
+Svg_20260903_1650/Dev_Test.ana/ANA00001/RADProp.mmo
+Svg_20260903_1650/Dev_Test.ana/ANA00001/RADProp.ndx
+Svg_20260903_1650/Dev_Test.ana/ANA00001/RADPropp.fic
+Svg_20260903_1650/Dev_Test.ana/ANA00001/RADPropp.mmo
+Svg_20260903_1650/Dev_Test.ana/ANA00001/RADPropp.ndx
+Svg_20260903_1650/Dev_Test.ana/ANA00001/RADRub.fic
+Svg_20260903_1650/Dev_Test.ana/ANA00001/RADRub.mmo
+Svg_20260903_1650/Dev_Test.ana/ANA00001/RADRub.ndx
+Svg_20260903_1650/Dev_Test.ana/ANA00001/RADRubp.fic
+Svg_20260903_1650/Dev_Test.ana/ANA00001/RADRubp.mmo
+Svg_20260903_1650/Dev_Test.ana/ANA00001/RADRubp.ndx
+Svg_20260903_1650/Dev_Test.ana/ANA00001/VERSION.TXT
+Svg_20260903_1650/Dev_Test.ana/ANA00002/Dev_Test.wda
+Svg_20260903_1650/Dev_Test.ana/ANA00002/Dev_Test.wdap
+Svg_20260903_1650/Dev_Test.ana/ANA00002/Dev_Test.wdd
+Svg_20260903_1650/Dev_Test.ana/ANA00002/Dev_Test.xdd
+Svg_20260903_1650/Dev_Test.ana/ANA00002/MO001-002.TXT
+Svg_20260903_1650/Dev_Test.ana/ANA00002/modif.mdf
+Svg_20260903_1650/Dev_Test.ana/ANA00002/RADFic.fic
+Svg_20260903_1650/Dev_Test.ana/ANA00002/RADFic.ndx
+Svg_20260903_1650/Dev_Test.ana/ANA00002/RADFicp.fic
+Svg_20260903_1650/Dev_Test.ana/ANA00002/RADFicp.ndx
+Svg_20260903_1650/Dev_Test.ana/ANA00002/RADProp.fic
+Svg_20260903_1650/Dev_Test.ana/ANA00002/RADProp.mmo
+Svg_20260903_1650/Dev_Test.ana/ANA00002/RADProp.ndx
+Svg_20260903_1650/Dev_Test.ana/ANA00002/RADPropp.fic
+Svg_20260903_1650/Dev_Test.ana/ANA00002/RADPropp.mmo
+Svg_20260903_1650/Dev_Test.ana/ANA00002/RADPropp.ndx
+Svg_20260903_1650/Dev_Test.ana/ANA00002/RADRub.fic
+Svg_20260903_1650/Dev_Test.ana/ANA00002/RADRub.mmo
+Svg_20260903_1650/Dev_Test.ana/ANA00002/RADRub.ndx
+Svg_20260903_1650/Dev_Test.ana/ANA00002/RADRubp.fic
+Svg_20260903_1650/Dev_Test.ana/ANA00002/RADRubp.mmo
+Svg_20260903_1650/Dev_Test.ana/ANA00002/RADRubp.ndx
+Svg_20260903_1650/Dev_Test.ana/ANA00002/VERSION.TXT
+Svg_20260903_1650/Dev_Test.ana/ANA00003/Dev_Test.wda
+Svg_20260903_1650/Dev_Test.ana/ANA00003/Dev_Test.wdap
+Svg_20260903_1650/Dev_Test.ana/ANA00003/Dev_Test.wdd
+Svg_20260903_1650/Dev_Test.ana/ANA00003/Dev_Test.xdd
+Svg_20260903_1650/Dev_Test.ana/ANA00003/MO002-003.TXT
+Svg_20260903_1650/Dev_Test.ana/ANA00003/modif.mdf
+Svg_20260903_1650/Dev_Test.ana/ANA00003/RADFic.fic
+Svg_20260903_1650/Dev_Test.ana/ANA00003/RADFic.ndx
+Svg_20260903_1650/Dev_Test.ana/ANA00003/RADFicp.fic
+Svg_20260903_1650/Dev_Test.ana/ANA00003/RADFicp.ndx
+Svg_20260903_1650/Dev_Test.ana/ANA00003/RADProp.fic
+Svg_20260903_1650/Dev_Test.ana/ANA00003/RADProp.mmo
+Svg_20260903_1650/Dev_Test.ana/ANA00003/RADProp.ndx
+Svg_20260903_1650/Dev_Test.ana/ANA00003/RADPropp.fic
+Svg_20260903_1650/Dev_Test.ana/ANA00003/RADPropp.mmo
+Svg_20260903_1650/Dev_Test.ana/ANA00003/RADPropp.ndx
+Svg_20260903_1650/Dev_Test.ana/ANA00003/RADRub.fic
+Svg_20260903_1650/Dev_Test.ana/ANA00003/RADRub.mmo
+Svg_20260903_1650/Dev_Test.ana/ANA00003/RADRub.ndx
+Svg_20260903_1650/Dev_Test.ana/ANA00003/RADRubp.fic
+Svg_20260903_1650/Dev_Test.ana/ANA00003/RADRubp.mmo
+Svg_20260903_1650/Dev_Test.ana/ANA00003/RADRubp.ndx
+Svg_20260903_1650/Dev_Test.ana/ANA00003/VERSION.TXT
+Svg_20260903_1650/Dev_Test.ana/ANA00004/Dev_Test.wda
+Svg_20260903_1650/Dev_Test.ana/ANA00004/Dev_Test.wdap
+Svg_20260903_1650/Dev_Test.ana/ANA00004/Dev_Test.wdd
+Svg_20260903_1650/Dev_Test.ana/ANA00004/Dev_Test.xdd
+Svg_20260903_1650/Dev_Test.ana/ANA00004/MO003-004.TXT
+Svg_20260903_1650/Dev_Test.ana/ANA00004/modif.mdf
+Svg_20260903_1650/Dev_Test.ana/ANA00004/RADFic.fic
+Svg_20260903_1650/Dev_Test.ana/ANA00004/RADFic.ndx
+Svg_20260903_1650/Dev_Test.ana/ANA00004/RADFicp.fic
+Svg_20260903_1650/Dev_Test.ana/ANA00004/RADFicp.ndx
+Svg_20260903_1650/Dev_Test.ana/ANA00004/RADProp.fic
+Svg_20260903_1650/Dev_Test.ana/ANA00004/RADProp.mmo
+Svg_20260903_1650/Dev_Test.ana/ANA00004/RADProp.ndx
+Svg_20260903_1650/Dev_Test.ana/ANA00004/RADPropp.fic
+Svg_20260903_1650/Dev_Test.ana/ANA00004/RADPropp.mmo
+Svg_20260903_1650/Dev_Test.ana/ANA00004/RADPropp.ndx
+Svg_20260903_1650/Dev_Test.ana/ANA00004/RADRub.fic
+Svg_20260903_1650/Dev_Test.ana/ANA00004/RADRub.mmo
+Svg_20260903_1650/Dev_Test.ana/ANA00004/RADRub.ndx
+Svg_20260903_1650/Dev_Test.ana/ANA00004/RADRubp.fic
+Svg_20260903_1650/Dev_Test.ana/ANA00004/RADRubp.mmo
+Svg_20260903_1650/Dev_Test.ana/ANA00004/RADRubp.ndx
+Svg_20260903_1650/Dev_Test.ana/ANA00004/VERSION.TXT
+Svg_20260903_1650/Dev_Test.ana/Dev_Test.emf
+Svg_20260903_1650/Dev_Test.ana/Dev_Test.eu.emf
+Svg_20260903_1650/Dev_Test.ana/Dev_Test.wda
+Svg_20260903_1650/Dev_Test.ana/Dev_Test.wdap
+Svg_20260903_1650/Dev_Test.ana/Dev_Test.wdd
+Svg_20260903_1650/Dev_Test.ana/Dev_Test.xdd
+Svg_20260903_1650/Dev_Test.ana/Dev_TestFR.eu.emf
+Svg_20260903_1650/Dev_Test.ana/LASTGEN/Dev_Test.wda
+Svg_20260903_1650/Dev_Test.ana/LASTGEN/Dev_Test.wdap
+Svg_20260903_1650/Dev_Test.ana/LASTGEN/Dev_Test.wdd
+Svg_20260903_1650/Dev_Test.ana/LASTGEN/MO000-001.TXT
+Svg_20260903_1650/Dev_Test.ana/LASTGEN/MO001-002.TXT
+Svg_20260903_1650/Dev_Test.ana/LASTGEN/MO002-003.TXT
+Svg_20260903_1650/Dev_Test.ana/LASTGEN/MO003-004.TXT
+Svg_20260903_1650/Dev_Test.ana/LASTGEN/modif.mdf
+Svg_20260903_1650/Dev_Test.ana/LASTGEN/MODIF.TXT
+Svg_20260903_1650/Dev_Test.ana/LASTGEN/RADFic.fic
+Svg_20260903_1650/Dev_Test.ana/LASTGEN/RADFic.ndx
+Svg_20260903_1650/Dev_Test.ana/LASTGEN/RADProp.fic
+Svg_20260903_1650/Dev_Test.ana/LASTGEN/RADProp.mmo
+Svg_20260903_1650/Dev_Test.ana/LASTGEN/RADProp.ndx
+Svg_20260903_1650/Dev_Test.ana/LASTGEN/RADRub.fic
+Svg_20260903_1650/Dev_Test.ana/LASTGEN/RADRub.mmo
+Svg_20260903_1650/Dev_Test.ana/LASTGEN/RADRub.ndx
+Svg_20260903_1650/Dev_Test.ana/modif.mdf
+Svg_20260903_1650/Dev_Test.ana/MODIF.TXT
+Svg_20260903_1650/Dev_Test.ana/RADFic.FIC
+Svg_20260903_1650/Dev_Test.ana/RADFic.ndx
+Svg_20260903_1650/Dev_Test.ana/RADFicp.fic
+Svg_20260903_1650/Dev_Test.ana/RADFicp.ndx
+Svg_20260903_1650/Dev_Test.ana/RADProp.FIC
+Svg_20260903_1650/Dev_Test.ana/RADProp.mmo
+Svg_20260903_1650/Dev_Test.ana/RADProp.ndx
+Svg_20260903_1650/Dev_Test.ana/RADPropp.fic
+Svg_20260903_1650/Dev_Test.ana/RADPropp.mmo
+Svg_20260903_1650/Dev_Test.ana/RADPropp.ndx
+Svg_20260903_1650/Dev_Test.ana/RADRub.FIC
+Svg_20260903_1650/Dev_Test.ana/RADRub.mmo
+Svg_20260903_1650/Dev_Test.ana/RADRub.ndx
+Svg_20260903_1650/Dev_Test.ana/RADRubp.fic
+Svg_20260903_1650/Dev_Test.ana/RADRubp.mmo
+Svg_20260903_1650/Dev_Test.ana/RADRubp.ndx
+Svg_20260903_1650/Dev_Test.ana/WDANA.SEM
+Svg_20260903_1650/Dev_Test.ana/WDANA.VER
+Svg_20260903_1650/Dev_Test.emf
+Svg_20260903_1650/Dev_Test.eu.emf
+Svg_20260903_1650/Dev_Test.sty
+Svg_20260903_1650/Dev_Test.wdd
+Svg_20260903_1650/Dev_Test.wdp
+Svg_20260903_1650/Dev_Test.xdd
+Svg_20260903_1650/Dev_TestFR.eu.emf
+Svg_20260903_1650/Exe/objet_model.fic
+Svg_20260903_1650/Exe/objet_model.mmo
+Svg_20260903_1650/Exe/objet_model.ndx
+Svg_20260903_1650/Exe/objmodel_caract.fic
+Svg_20260903_1650/Exe/objmodel_caract.ndx
+Svg_20260903_1650/Exe/typecaract.fic
+Svg_20260903_1650/Exe/typecaract.mmo
+Svg_20260903_1650/Exe/typecaract.ndx
+Svg_20260903_1650/FEN_Main.wdw
+Svg_20260903_1650/Folder.ico
+Svg_20260903_1650/Mon_Projet2.wdy
+Svg_20260903_1650/RADFic.FIC
+Svg_20260903_1650/RADFic.ndx
+Svg_20260903_1650/RADProp.FIC
+Svg_20260903_1650/RADProp.mmo
+Svg_20260903_1650/RADProp.ndx
+Svg_20260903_1650/RADRub.FIC
+Svg_20260903_1650/RADRub.mmo
+Svg_20260903_1650/RADRub.ndx
+Svg_20260903_1650/REQ_CaractNonAffect.WDR
+Svg_20260903_1650/Themes/.wdignorecleanup
+Svg_20260903_1650/Themes/WD/.wdignorecleanup
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Logo.png
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette.dark.wdpalette
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette.ini
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette.sty
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette.wdpalette
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette.wdy
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_0_D.wdw
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_1.wdw
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_13.wdw
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_22.wdw
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_23.wdw
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_24.wdw
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Break_Pict.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Btn_Syst_Close.png
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Btn_Syst_Increase.png
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Btn_Syst_Minimize.png
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_CBox.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Etiquette.gif
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Etiquette.wde
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Fiche.gif
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Fiche.wde
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Form.gif
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Form.wde
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Label.gif
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Label.wde
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Logo.png
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Mailing.gif
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Mailing.wde
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_MailingUS.gif
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_MailingUS.wde
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Add_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Apply_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Back_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Browse_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_BrwFirst_H_24_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_BrwFirst_V_24_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_BrwForward_H_24_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_BrwForward_V_24_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_BrwLast_H_24_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_BrwLast_V_24_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_BrwNext_H_24_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_BrwNext_V_24_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Cancel_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Close_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Copy_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Correct_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Cut_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Delete_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Detail_16_2.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Detail_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Help_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Home_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Import_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Link_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_List_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_LogOff_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Look_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Modify_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_NavigForward_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_NavigNext_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_New_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_ok_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_open_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_ParentFolder_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Paste_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_PeriodNext_24_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_PeriodPrevious_24_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_PlaneForward_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_PlaneNext_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Popup_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Print_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Redo_24_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Refresh_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Remov_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Repair_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Ribbon_Cancel.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Ribbon_Delete.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Ribbon_List.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Ribbon_Modify.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Ribbon_New.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Ribbon_Ok.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Ribbon_Open.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Ribbon_Preview.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Ribbon_Print.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Save_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Search_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Syst_Close_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Syst_Maximise_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Syst_Minimize_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Syst_Restore_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Syst_umc_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Tab_Add_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Tab_Close_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Trad_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Undo_24_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_VisionPlus_16_5.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Radio.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Ribbon_Separ.png
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Scroll_H.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Scroll_V.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Scroll2_H.png
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Scroll2_V.png
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Side.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Side_Light.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Sld_Cursor.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Sld_V_Cursor.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Spliter_Grip_H.png
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Spliter_Grip_v.png
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Splitter_Bg.png
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Tab_MDI_Btn-New.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Table.gif
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Table.wde
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Table_ColPict.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_Table_ColTitle.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_TableUS.gif
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_TableUS.wde
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_TV_Node_Close.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_WDMSGBOX-ERROR.png
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_WDMSGBOX-INFO.png
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_WDMSGBOX-PERSO.png
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Eleven_Palette_WDMSGBOX-QUESTION.png
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/Elevent_Table_ColTitle.svg
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/FEN_ExempleGabarit.png
+Svg_20260903_1650/Themes/WD/300 Eleven_Palette/FEN_ExempleGabaritUS.png
+Themes/.wdignorecleanup
+Themes/WD/.wdignorecleanup
+Themes/WD/300 Eleven_Palette/Eleven_Logo.png
+Themes/WD/300 Eleven_Palette/Eleven_Palette.dark.wdpalette
+Themes/WD/300 Eleven_Palette/Eleven_Palette.ini
+Themes/WD/300 Eleven_Palette/Eleven_Palette.sty
+Themes/WD/300 Eleven_Palette/Eleven_Palette.wdpalette
+Themes/WD/300 Eleven_Palette/Eleven_Palette.wdy
+Themes/WD/300 Eleven_Palette/Eleven_Palette_0_D.wdw
+Themes/WD/300 Eleven_Palette/Eleven_Palette_1.wdw
+Themes/WD/300 Eleven_Palette/Eleven_Palette_13.wdw
+Themes/WD/300 Eleven_Palette/Eleven_Palette_22.wdw
+Themes/WD/300 Eleven_Palette/Eleven_Palette_23.wdw
+Themes/WD/300 Eleven_Palette/Eleven_Palette_24.wdw
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Break_Pict.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Btn_Syst_Close.png
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Btn_Syst_Increase.png
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Btn_Syst_Minimize.png
+Themes/WD/300 Eleven_Palette/Eleven_Palette_CBox.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Etiquette.gif
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Etiquette.wde
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Fiche.gif
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Fiche.wde
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Form.gif
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Form.wde
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Label.gif
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Label.wde
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Logo.png
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Mailing.gif
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Mailing.wde
+Themes/WD/300 Eleven_Palette/Eleven_Palette_MailingUS.gif
+Themes/WD/300 Eleven_Palette/Eleven_Palette_MailingUS.wde
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Add_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Apply_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Back_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Browse_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_BrwFirst_H_24_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_BrwFirst_V_24_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_BrwForward_H_24_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_BrwForward_V_24_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_BrwLast_H_24_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_BrwLast_V_24_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_BrwNext_H_24_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_BrwNext_V_24_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Cancel_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Close_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Copy_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Correct_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Cut_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Delete_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Detail_16_2.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Detail_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Help_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Home_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Import_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Link_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_List_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_LogOff_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Look_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Modify_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_NavigForward_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_NavigNext_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_New_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_ok_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_open_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_ParentFolder_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Paste_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_PeriodNext_24_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_PeriodPrevious_24_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_PlaneForward_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_PlaneNext_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Popup_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Print_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Redo_24_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Refresh_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Remov_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Repair_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Ribbon_Cancel.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Ribbon_Delete.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Ribbon_List.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Ribbon_Modify.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Ribbon_New.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Ribbon_Ok.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Ribbon_Open.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Ribbon_Preview.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Ribbon_Print.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Save_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Search_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Syst_Close_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Syst_Maximise_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Syst_Minimize_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Syst_Restore_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Syst_umc_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Tab_Add_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Tab_Close_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Trad_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_Undo_24_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Pict_VisionPlus_16_5.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Radio.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Ribbon_Separ.png
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Scroll_H.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Scroll_V.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Scroll2_H.png
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Scroll2_V.png
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Side.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Side_Light.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Sld_Cursor.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Sld_V_Cursor.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Spliter_Grip_H.png
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Spliter_Grip_v.png
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Splitter_Bg.png
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Tab_MDI_Btn-New.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Table.gif
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Table.wde
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Table_ColPict.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_Table_ColTitle.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_TableUS.gif
+Themes/WD/300 Eleven_Palette/Eleven_Palette_TableUS.wde
+Themes/WD/300 Eleven_Palette/Eleven_Palette_TV_Node_Close.svg
+Themes/WD/300 Eleven_Palette/Eleven_Palette_WDMSGBOX-ERROR.png
+Themes/WD/300 Eleven_Palette/Eleven_Palette_WDMSGBOX-INFO.png
+Themes/WD/300 Eleven_Palette/Eleven_Palette_WDMSGBOX-PERSO.png
+Themes/WD/300 Eleven_Palette/Eleven_Palette_WDMSGBOX-QUESTION.png
+Themes/WD/300 Eleven_Palette/Elevent_Table_ColTitle.svg
+Themes/WD/300 Eleven_Palette/FEN_ExempleGabarit.png
+Themes/WD/300 Eleven_Palette/FEN_ExempleGabaritUS.png
+RADFic.FIC
+RADFic.ndx
+RADProp.FIC
+RADProp.mmo
+RADProp.ndx
+RADRub.FIC
+RADRub.mmo
+RADRub.ndx
