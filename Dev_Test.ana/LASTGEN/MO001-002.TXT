@@ -1,0 +1,4 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+ObjModel_Caract		NFI		nouveau fichier de données
+Contrainte_Objet_Model_ObjModel_Caract		NWL	Objet_Model (IDObjet_Model) et ObjModel_Caract (IDObjet_Model)	Nouvelle liaison entre les fichiers de données Objet_Model (IDObjet_Model) et ObjModel_Caract (IDObjet_Model)
+Contrainte_TypeCaract_ObjModel_Caract		NWL	TypeCaract (IDTypeCaract) et ObjModel_Caract (IDTypeCaract)	Nouvelle liaison entre les fichiers de données TypeCaract (IDTypeCaract) et ObjModel_Caract (IDTypeCaract)

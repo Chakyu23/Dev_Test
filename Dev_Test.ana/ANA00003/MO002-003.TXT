@@ -1,0 +1,5 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+TypeCaract		TAR	80	nouvelle taille enregistrement : 80
+TypeCaract	Tag	TAI-	47	la rubrique Tag a comme nouvelle taille 4 au lieu de 51
+ObjModel_Caract		TAR	41	nouvelle taille enregistrement : 41
+ObjModel_Caract	BaseValueMax	RUB+		BaseValueMax est une nouvelle rubrique
