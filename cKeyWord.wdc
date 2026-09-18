@@ -22,8 +22,12 @@ class :
       	eKWT_Other			= 3
       fin
       
+      // Les classe ont pour but de servir dans la partie Utilisateur, la partie admin est branché en direct
       cKeyWord est une Classe
-      
+      	m_nID	est un entier
+      	m_sNom	est une chaîne
+      	m_sDesc est une chaîne
+      	m_eType est un eKeyWordType
       fin
      type : 131072
   procedures :
@@ -43,6 +47,131 @@ class :
       procédure Destructeur()
       
      type : 655360
+   -
+     name : Affiche_Jeton
+     procedure_id : 1922216229707787770
+     type_code : 12
+     code : |1-
+      //!
+      //! @brief <indiquez ici ce que fait la procédure>
+      //!
+      //! @param sChamp (chaîne ANSI)  <indiquez ici le rôle de sChamp>
+      //! @param nID (entier)  <indiquez ici le rôle de nID>
+      //!
+      //!
+      
+      procédure globale public Affiche_Jeton(sChamp est une chaîne, LOCAL _nID est un entier)
+      
+      req_KW_ObjMod est une Requête SQL =
+      `
+      	SELECT KeyWord.Name, KeyWord_Objet_Model.IDKeyWord, KeyWord_Objet_Model.Value<§cs:3§>
+      	FROM KeyWord_Objet_Model<§cs:3§>
+      	INNER JOIN KeyWord ON KeyWord.IDKeyWord = KeyWord_Objet_Model.IDKeyWord<§cs:3§>
+      	WHERE KeyWord_Objet_Model.IDObjet_Model = {pp_nID}<§cs:3§>
+      `
+      
+      SaisieSupprimeToutJeton(sChamp)
+      
+      req_KW_ObjMod.pp_nID = _nID
+      SI PAS HExécuteRequête(req_KW_ObjMod, hRequêteDéfaut) ALORS
+      	renvoyer "ERROR;Échec du chargement des KeyWord"
+      FIN
+      POUR TOUT req_KW_ObjMod
+      	unJeton est un Jeton
+      	unJeton.Libellé					= req_KW_ObjMod.Name + " " + req_KW_ObjMod.VALUE
+      	unJeton.Valeur					= req_KW_ObjMod.IDKeyWord
+      	unJeton.Extra.Lib				= req_KW_ObjMod.Name
+      	unJeton.Extra.Val				= req_KW_ObjMod.VALUE
+      
+      	SaisieAjouteJeton(sChamp, unJeton)
+      FIN
+      HLibèreRequête(req_KW_ObjMod)
+      
+      renvoyer "OK"
+     type : 458752
+   -
+     name : Sauve_Jeton
+     procedure_id : 1922227053091069644
+     type_code : 12
+     code : |1-
+      //!
+      //! @brief <indiquez ici ce que fait la procédure>
+      //!
+      //! @param sChamp (chaîne ANSI)  <indiquez ici le rôle de sChamp>
+      //! @param _nID (entier)  nID (entier)  <indiquez ici le rôle de nID>
+      //!
+      //!
+      
+      procédure GLOBALE PUBLIC Sauve_Jeton(sChamp est une chaîne, LOCAL _nID est un entier)
+      Req_DeleteKeyWordObj	est une Requête SQL =
+      `
+      	DELETE FROM KeyWord_Objet_Model WHERE KeyWord_Objet_Model.IDObjet_Model = {pp_Id}<§cs:3§>
+      `
+      
+      Req_DeleteKeyWordObj.pp_Id = _nID
+      SI PAS HExécuteRequête(Req_DeleteKeyWordObj) ALORS
+      	RENVOYER "ERROR;Échec de la mise à jour des KeyWord"
+      FIN
+      
+      POUR TOUT unJeton DE {sChamp, indChamp}..jeton
+      	HRAZ(KeyWord_Objet_Model)
+      	KeyWord_Objet_Model.IDKeyWord		= unJeton.Valeur
+      	KeyWord_Objet_Model.IDObjet_Model	= _nID
+      	KeyWord_Objet_Model.Value			= unJeton.Extra.Val
+      	HAjoute(KeyWord_Objet_Model)
+      FIN
+      
+      RENVOYER "OK"
+     type : 458752
+  properties :
+   -
+     name : nID
+     identifier : 0x1aad182d028eb838
+     type_code : 103
+     p_codes :
+      -
+        code : |1-
+         procédure publique nID() : entier
+         
+         renvoyer :m_nID
+        type : 1966080
+     template_refs : []
+   -
+     name : sDesc
+     identifier : 0x1aad1839028fe592
+     type_code : 103
+     p_codes :
+      -
+        code : |1-
+         procédure publique sDesc() : chaîne ANSI
+         
+         renvoyer :m_sDesc
+        type : 1966080
+     template_refs : []
+   -
+     name : sNom
+     identifier : 0x1aad18770295d987
+     type_code : 103
+     p_codes :
+      -
+        code : |1-
+         procédure publique sNom() : chaîne ANSI
+         
+         renvoyer :m_sNom
+        type : 1966080
+     template_refs : []
+   -
+     name : eType
+     identifier : 0x1aad187d0296f145
+     type_code : 103
+     p_codes :
+      -
+        code : |1-
+         procédure publique eType() : cKeyWord.eKeyWordType
+         
+         renvoyer :m_eType
+        type : 1966080
+     template_refs : []
   procedure_templates : []
   property_templates : []
  code_parameters :
