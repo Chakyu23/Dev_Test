@@ -1,4 +1,3 @@
-//MO005-006.TXT ANA00005 TO ANA00006
-KeyWord_Objet_Model		NFI		nouveau fichier de données
-Contrainte_KeyWord_Objet_Model		NWL	KeyWord (IDKeyWord) et KeyWord_Objet_Model (IDKeyWord)	Nouvelle liaison entre les fichiers de données KeyWord (IDKeyWord) et KeyWord_Objet_Model (IDKeyWord)
-Contrainte_Objet_Model_KeyWord		NWL	Objet_Model (IDObjet_Model) et KeyWord_Objet_Model (IDObjet_Model)	Nouvelle liaison entre les fichiers de données Objet_Model (IDObjet_Model) et KeyWord_Objet_Model (IDObjet_Model)
+//MO006-007.TXT ANA00006 TO ANA00007
+ObjModel_Caract		TAR	42	nouvelle taille enregistrement : 42
+ObjModel_Caract	Aleatoire	RUB+		Aleatoire est une nouvelle rubrique
